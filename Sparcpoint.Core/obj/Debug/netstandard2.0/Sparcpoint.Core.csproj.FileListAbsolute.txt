@@ -1,0 +1,9 @@
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\obj\Debug\netstandard2.0\Sparcpoint.Core.csproj.AssemblyReference.cache
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\obj\Debug\netstandard2.0\Sparcpoint.Core.AssemblyInfoInputs.cache
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\obj\Debug\netstandard2.0\Sparcpoint.Core.AssemblyInfo.cs
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\obj\Debug\netstandard2.0\Sparcpoint.Core.csproj.CoreCompileInputs.cache
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\bin\Debug\netstandard2.0\Sparcpoint.Core.deps.json
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\bin\Debug\netstandard2.0\Sparcpoint.Core.dll
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\bin\Debug\netstandard2.0\Sparcpoint.Core.pdb
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\obj\Debug\netstandard2.0\Sparcpoint.Core.dll
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\obj\Debug\netstandard2.0\Sparcpoint.Core.pdb

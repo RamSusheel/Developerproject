@@ -1,0 +1,9 @@
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\bin\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.deps.json
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\bin\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.dll
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\bin\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.pdb
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\obj\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.csproj.AssemblyReference.cache
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\obj\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.AssemblyInfoInputs.cache
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\obj\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.AssemblyInfo.cs
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\obj\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\obj\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.dll
+C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.SqlServer.Abstractions\obj\Debug\netstandard2.0\Sparcpoint.SqlServer.Abstractions.pdb
