@@ -1,6 +1,9 @@
-C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Inventory.Database\bin\Debug\Sparcpoint.Inventory.Database.dacpac
-C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Inventory.Database\bin\Debug\Sparcpoint.Inventory.Database.dll
-C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Inventory.Database\bin\Debug\Sparcpoint.Inventory.Database.pdb
-C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Inventory.Database\obj\Debug\Sparcpoint.Inventory.Database.sqlproj.AssemblyReference.cache
-C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Inventory.Database\obj\Debug\Sparcpoint.Inventory.Database.dll
-C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Inventory.Database\obj\Debug\Sparcpoint.Inventory.Database.pdb
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\bin\Debug\Sparcpoint.Inventory.Database.dacpac
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\bin\Debug\Sparcpoint.Inventory.Database.dll
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\bin\Debug\Sparcpoint.Inventory.Database.pdb
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\obj\Debug\Model.xml
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\obj\Debug\refactor.xml
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\obj\Debug\postdeploy.sql
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\obj\Debug\predeploy.sql
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\obj\Debug\Sparcpoint.Inventory.Database.dll
+D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Inventory.Database\obj\Debug\Sparcpoint.Inventory.Database.pdb

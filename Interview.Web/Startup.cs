@@ -33,6 +33,16 @@ namespace Interview.Web
                  options.UseSqlServer(Configuration.GetConnectionString("APIContext")));
             services.AddScoped<IBaseRepository, BaseRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
+
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "Sparcpoint Inventory Service API",
+                    Version = "v2",
+                    Description = "Sparcpoint",
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -60,6 +70,10 @@ namespace Interview.Web
             {
                 endpoints.MapControllers();
             });
+
+            app.UseSwagger();
+            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v2/swagger.json", "Sparcpoint Inventory Service API"));
+
         }
     }
 }

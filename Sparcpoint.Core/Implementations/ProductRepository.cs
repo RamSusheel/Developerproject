@@ -35,7 +35,20 @@ namespace Sparcpoint.Implementations
         #endregion
 
         #region " Methods "
+        /// <summary>
+        /// Get All Products 
+        /// </summary>
+        /// <returns></returns>
+        public async Task<List<Products>> GetAllProducts()
+        {
+            List<Products> productList = null;
+            if (_context != null)
+            {
+                productList = await _context.Products.ToListAsync();
+            }
+            return productList;
 
+        }
 
         /// <summary>
         /// Get Product Details single or multiple by passing comma separated values

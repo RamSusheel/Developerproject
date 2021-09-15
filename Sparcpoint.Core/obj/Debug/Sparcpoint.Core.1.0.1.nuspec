@@ -16,6 +16,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\muralikrishna.ch\Downloads\Development-Project-CSharp-master\Development Project\Sparcpoint.Core\bin\Debug\netstandard2.0\Sparcpoint.Core.dll" target="lib\netstandard2.0\Sparcpoint.Core.dll" />
+    <file src="D:\DotNetCore\Development-Project\Development Project\Sparcpoint.Core\bin\Debug\netstandard2.0\Sparcpoint.Core.dll" target="lib\netstandard2.0\Sparcpoint.Core.dll" />
   </files>
 </package>

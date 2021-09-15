@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 namespace Interview.Web.Controllers
 {
     [Route("api/v1/products")]
+    [ApiController]
     public class ProductController : Controller
     {
         readonly IProductRepository _productRepository;
@@ -17,11 +18,13 @@ namespace Interview.Web.Controllers
         {
             _productRepository = productRepository;
         }
-        // NOTE: Sample Action
+        
         [HttpGet]
-        public Task<IActionResult> GetAllProducts()
+        public async Task<ActionResult<IEnumerable<Products>>> GetAllProducts()
         {
-            return Task.FromResult((IActionResult)Ok(new object[] { }));
+            List<Products> result = null;
+            result =await _productRepository.GetAllProducts();
+            return Ok(result);
         }
 
         #region GET: api/v1/products/GetProductsDetails
